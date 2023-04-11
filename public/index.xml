@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RunningDigital</title>
+    <link>https://runningdigital.com/</link>
+    <description>Recent content on RunningDigital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://runningdigital.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://runningdigital.com/about/</link>
+      <pubDate>Sat, 08 Apr 2023 17:56:37 +0200</pubDate>
+      
+      <guid>https://runningdigital.com/about/</guid>
+      <description>Formerly, dedicated to telling a story about health data in emerging technologies.</description>
+    </item>
+    
+  </channel>
+</rss>
