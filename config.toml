@@ -16,11 +16,11 @@ style = "github-dark"
   # info = "Writer."
   # description = "-my personal website"
   # keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "/images/avatar.jpg"
   # gravatar = "john.doe@example.com"
-
-  # favicon_32 = "/img/favicon-32x32.png"
-  # favicon_16 = "/img/favicon-16x16.png"
+  license = "MIT"
+  favicon_32 = "/imgages/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
 
   since = 2008
 
