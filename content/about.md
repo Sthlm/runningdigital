@@ -12,6 +12,6 @@ date = 2023-04-08T17:56:37+02:00
 
 
 
-Between 2008 and 2016 this site was dedicated to telling a story about connected health data using emerging technologies. Regretfully, I eventually lost access to all site files.
+Between 2008 and 2016 this site was dedicated to telling a story about connected health data using emerging technologies. Regretfully, after a lengthy hiatus I lost access to all site files.
 
-Currently, runningdigital.com is a landing page for my socials. Reach out to me using the icons under my logo at the root of my URL; Twitter, YouTube, Mastodon and email.
+Currently, runningdigital.com is a landing page for my socials. Reach out to me using the icons under my avatar on the root URL with Twitter, YouTube or email.
