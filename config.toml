@@ -18,7 +18,7 @@ style = "github-dark"
   # keywords = "blog,developer,personal"
   avatarurl = "/images/avatar.jpg"
   # gravatar = "john.doe@example.com"
-  license = "MIT"
+  license = "MIT licence"
   favicon_32 = "/imgages/favicon-32x32.png"
   favicon_16 = "/images/favicon-16x16.png"
 
